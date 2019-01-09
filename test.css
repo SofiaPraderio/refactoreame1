@@ -1,0 +1,49 @@
+body {
+    background: rgb(241, 150, 45);
+    font-family: 'Roboto', sans-serif;
+    margin-right: 20px;
+    margin-left: 20px; 
+    margin-top: 0%;
+}
+.titulo {
+    font-family: 'Staatliches', cursive;
+    font-size: 80px;
+    text-align: center;
+    margin-top: -50px; 
+    margin-bottom: -50px;
+}
+.descripcion {
+    display: flex;
+}
+.textodescripcion {
+    background: white;
+    border: 5px solid black;
+    border-style: dashed; 
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 40px 30px 40px 30px;
+}
+.sugerencias {
+    font-size: 20px; 
+    text-align: center;
+    margin-top: 10px;
+}
+span {
+    font-size: 105%;
+    font-weight: bold; 
+}
+.lista {
+    background: black;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 40px 30px 40px 60px;
+}
+.nota {
+    background:white; 
+    text-align: center;
+    border: 5px solid black;
+    border-style: dashed; 
+    margin: 30px 150px 30px 150px;
+    padding: 20px; 
+}
